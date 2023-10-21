@@ -1,0 +1,48 @@
+.container{
+
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    display: flex;
+    border-radius: 50%;
+    background-color: rosybrown;
+}
+
+.solgoz{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: rgb(239, 226, 226);
+    margin: 120px 0px 0px 60px;
+
+}
+
+.solgoz-ici{
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: black;
+    margin: 10px 50px 50px 50px;
+}
+
+.saggoz{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: rgb(239, 226, 226);
+    margin: 120px 0px 0px 60px;
+}
+
+.saggoz-ici{
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: black;
+    margin: 120px 0px 50px 90px;
+}
+
+
